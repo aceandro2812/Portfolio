@@ -1,0 +1,233 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOKDtdfM5XhiKr",
+      "title": "added flutter and backend structure",
+      "url": "https://github.com/aceandro2812/DPI/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37745491?v=4",
+        "url": "https://github.com/aceandro2812",
+        "login": "aceandro2812"
+      },
+      "createdAt": "2023-08-09T11:10:59Z",
+      "number": 2,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "DPI",
+        "url": "https://github.com/aceandro2812/DPI",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37745491?v=4",
+          "login": "aceandro2812",
+          "url": "https://github.com/aceandro2812"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGK0TAc5AVjD_",
+      "title": "Create Chunking.ipnyb",
+      "url": "https://github.com/ossamamehmood/Hacktoberfest/pull/1414",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40134503?u=7e904682c13c8417a2e87192abf110ba6de8524e&v=4",
+        "url": "https://github.com/ossamamehmood",
+        "login": "ossamamehmood"
+      },
+      "createdAt": "2022-10-06T17:38:31Z",
+      "number": 1414,
+      "changedFiles": 1,
+      "additions": 57,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Hacktoberfest",
+        "url": "https://github.com/ossamamehmood/Hacktoberfest",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40134503?u=7e904682c13c8417a2e87192abf110ba6de8524e&v=4",
+          "login": "ossamamehmood",
+          "url": "https://github.com/ossamamehmood"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGK0TAc5AVijz",
+      "title": "Create NLP_POS.ipnyb",
+      "url": "https://github.com/ossamamehmood/Hacktoberfest/pull/1413",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40134503?u=7e904682c13c8417a2e87192abf110ba6de8524e&v=4",
+        "url": "https://github.com/ossamamehmood",
+        "login": "ossamamehmood"
+      },
+      "createdAt": "2022-10-06T17:36:26Z",
+      "number": 1413,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Hacktoberfest",
+        "url": "https://github.com/ossamamehmood/Hacktoberfest",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40134503?u=7e904682c13c8417a2e87192abf110ba6de8524e&v=4",
+          "login": "ossamamehmood",
+          "url": "https://github.com/ossamamehmood"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIGkeJc5ADZhV",
+      "title": "Update 100.py",
+      "url": "https://github.com/CharlieTheHack1/hacktoberfest202222/pull/66",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42512633?u=7e0ab8300989cfaba27cf5a9472b752d1cebcf6b&v=4",
+        "url": "https://github.com/CharlieTheHack1",
+        "login": "CharlieTheHack1"
+      },
+      "createdAt": "2022-10-03T12:53:03Z",
+      "number": 66,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "hacktoberfest202222",
+        "url": "https://github.com/CharlieTheHack1/hacktoberfest202222",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42512633?u=7e0ab8300989cfaba27cf5a9472b752d1cebcf6b&v=4",
+          "login": "CharlieTheHack1",
+          "url": "https://github.com/CharlieTheHack1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIGkeJc5ADZJw",
+      "title": "Added NLP chunking and POS recognizer",
+      "url": "https://github.com/CharlieTheHack1/hacktoberfest202222/pull/65",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42512633?u=7e0ab8300989cfaba27cf5a9472b752d1cebcf6b&v=4",
+        "url": "https://github.com/CharlieTheHack1",
+        "login": "CharlieTheHack1"
+      },
+      "createdAt": "2022-10-03T12:51:44Z",
+      "number": 65,
+      "changedFiles": 1,
+      "additions": 78,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "hacktoberfest202222",
+        "url": "https://github.com/CharlieTheHack1/hacktoberfest202222",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42512633?u=7e0ab8300989cfaba27cf5a9472b752d1cebcf6b&v=4",
+          "login": "CharlieTheHack1",
+          "url": "https://github.com/CharlieTheHack1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIGkeJc5ADXOw",
+      "title": "Update C++",
+      "url": "https://github.com/CharlieTheHack1/hacktoberfest202222/pull/64",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42512633?u=7e0ab8300989cfaba27cf5a9472b752d1cebcf6b&v=4",
+        "url": "https://github.com/CharlieTheHack1",
+        "login": "CharlieTheHack1"
+      },
+      "createdAt": "2022-10-03T12:44:53Z",
+      "number": 64,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "hacktoberfest202222",
+        "url": "https://github.com/CharlieTheHack1/hacktoberfest202222",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42512633?u=7e0ab8300989cfaba27cf5a9472b752d1cebcf6b&v=4",
+          "login": "CharlieTheHack1",
+          "url": "https://github.com/CharlieTheHack1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIGkeJc5ADWA2",
+      "title": "Added Count Files Program",
+      "url": "https://github.com/CharlieTheHack1/hacktoberfest202222/pull/63",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42512633?u=7e0ab8300989cfaba27cf5a9472b752d1cebcf6b&v=4",
+        "url": "https://github.com/CharlieTheHack1",
+        "login": "CharlieTheHack1"
+      },
+      "createdAt": "2022-10-03T12:40:23Z",
+      "number": 63,
+      "changedFiles": 1,
+      "additions": 28,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "hacktoberfest202222",
+        "url": "https://github.com/CharlieTheHack1/hacktoberfest202222",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42512633?u=7e0ab8300989cfaba27cf5a9472b752d1cebcf6b&v=4",
+          "login": "CharlieTheHack1",
+          "url": "https://github.com/CharlieTheHack1"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQ0OTE0Njg4",
+      "title": "Jatin branch",
+      "url": "https://github.com/aceandro2812/DYSASSIST2.0/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37745491?v=4",
+        "url": "https://github.com/aceandro2812",
+        "login": "aceandro2812"
+      },
+      "createdAt": "2021-05-14T18:52:38Z",
+      "number": 2,
+      "changedFiles": 1106,
+      "additions": 20061,
+      "deletions": 35612,
+      "baseRepository": {
+        "name": "DYSASSIST2.0",
+        "url": "https://github.com/aceandro2812/DYSASSIST2.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37745491?v=4",
+          "login": "aceandro2812",
+          "url": "https://github.com/aceandro2812"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQ0OTEzNTA1",
+      "title": "Kotlinedit",
+      "url": "https://github.com/aceandro2812/DYSASSIST2.0/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37745491?v=4",
+        "url": "https://github.com/aceandro2812",
+        "login": "aceandro2812"
+      },
+      "createdAt": "2021-05-14T18:50:09Z",
+      "number": 1,
+      "changedFiles": 115,
+      "additions": 380,
+      "deletions": 404,
+      "baseRepository": {
+        "name": "DYSASSIST2.0",
+        "url": "https://github.com/aceandro2812/DYSASSIST2.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37745491?v=4",
+          "login": "aceandro2812",
+          "url": "https://github.com/aceandro2812"
+        }
+      }
+    }
+  ],
+  "merged": 9,
+  "open": 0,
+  "totalCount": 9
+}

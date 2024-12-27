@@ -1,0 +1,47 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU1NzQ3NDkyOTM=",
+      "closed": false,
+      "title": "can i use this with an arduino uno over bluetooth serial ?",
+      "createdAt": "2020-03-03T15:29:54Z",
+      "url": "https://github.com/IeiuniumLux/AAV/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AAV",
+        "url": "https://github.com/IeiuniumLux/AAV",
+        "owner": {
+          "login": "IeiuniumLux",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3729432?u=e3744fe7002daa06a5fd0c5910dffd138165a77f&v=4",
+          "url": "https://github.com/IeiuniumLux"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzM1NDg5MzQ=",
+      "closed": true,
+      "title": "How do i add what object to track in the code pls help i am a noob in arduino and tensorflow",
+      "createdAt": "2020-03-01T13:41:39Z",
+      "url": "https://github.com/GemcodeStudios/ObjectDetectionTracking/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ObjectDetectionTracking",
+        "url": "https://github.com/GemcodeStudios/ObjectDetectionTracking",
+        "owner": {
+          "login": "GemcodeStudios",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/32246436?v=4",
+          "url": "https://github.com/GemcodeStudios"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 2
+}
